@@ -1,16 +1,22 @@
-### Hi there 👋
+## Rudy Salazar ##
+
+### About Me ###  
+
+
+### Nested Movies ###  
+Nested Movies is a movie app that displays the most popular movies on iTunes with the option to tap on each movie for more information about it. The app fetches JSON data from Apple RSS and is built with Swift and uses King Fisher Library for image loading.  
+
+![Movies](https://media.giphy.com/media/ayr58ZqINoTmhHTasa/giphy.gif)
+
+### Tip Calculator ###  
+
+
 
 <!--
 **Rudy-Salazar/Rudy-Salazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
